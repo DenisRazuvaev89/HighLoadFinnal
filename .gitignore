@@ -1,0 +1,10 @@
+go-microservice
+microservice
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
